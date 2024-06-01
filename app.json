@@ -1,7 +1,7 @@
 {
-    "name": "KRISH MUSIC",
+    "name": "NezuKo Assistant",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/50365e81032599cf153d7.jpg",
+    "logo": "https://graph.org/file/1481a6df3ed3ecfc21cfa.jpg",
     "keywords": [
     "python3",
     "telegram",
