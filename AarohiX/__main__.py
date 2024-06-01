@@ -50,12 +50,12 @@ async def init():
         pass
     await Dil.decorators()
     LOGGER("AarohiX").info(
-        "ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ, ɴᴏᴡ ɢɪʙ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ ᴄʜᴜᴛ ɪɴ @krishoffical2 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗞𝗥𝗜𝗦𝗛"
+        "ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ, ɴᴏᴡ ɢɪʙ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ ᴄʜᴜᴛ ɪɴ @GOKUxEDITION 𝗠𝗔𝗗𝗘 𝗕𝗬 𝐆Ⓞ𝐊𝐔"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("AarohiX").info("𝗠𝗔𝗗𝗘 𝗕𝗬 𝗞𝗥𝗜𝗦𝗛 Queen Mᴜsɪᴄ Bᴏᴛ...")
+    LOGGER("AarohiX").info("𝗠𝗔𝗗𝗘 𝗕𝗬 𝐆Ⓞ𝐊𝐔 Bᴏᴛ...")
 
 
 if __name__ == "__main__":
