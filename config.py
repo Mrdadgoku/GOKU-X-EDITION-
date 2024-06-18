@@ -21,11 +21,11 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "54000")
 )
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID",-1001891687243 ""))
 
 OWNER_ID = int(getenv("OWNER_ID", "6462365139"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "NezukoxAssistant_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@SmokerCriminalBot")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -43,7 +43,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOKUxEDITION")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+oqNjP0Yz3g9mM2Jl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Smoker_Chats")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
